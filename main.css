@@ -1,0 +1,14 @@
+*{
+    background-color: black;
+}
+.container{
+    display: flex;
+    align-content: center;
+
+}
+
+
+img{
+    height: 400px;
+    align-items: center;
+}
